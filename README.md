@@ -1,0 +1,1 @@
+Projeto pedido pela ALura, como parte do programa ONE, nele pede um programa que realize um sorteio de amigo secreto, entra os nomes, aparece na tela os nomes indicados e sorteia, neles eu adicionei um botão de reinciar a partir do conhecimento de outros curso

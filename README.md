@@ -1,1 +1,3 @@
-Projeto pedido pela ALura, como parte do programa ONE, nele pede um programa que realize um sorteio de amigo secreto, entra os nomes, aparece na tela os nomes indicados e sorteia, neles eu adicionei um botão de reinciar a partir do conhecimento de outros curso
+Projeto pedido pela ALura, como parte do programa ONE, nele pede um programa que realize um sorteio de amigo secreto, entra os nomes, aparece na tela os nomes indicados e realiza o sorteio deles, neles eu adicionei um botão de reinciar a partir do conhecimento de outros curso, a maior dificuldade foram fazer aparecer os nomes na tela, fazer com que espaços em branco não contassem como entrada de texto, que foi contornado verificando
+os textos e comparando, além da realização de sorteios de nomes que não se repitam, por exemplo o mesmo nomes sair duas vezes, que foi arrumado verifcando os numeros aleatorios gerados, verifica se esta contido
+numa lista, se sim, gera novamente outro numero e assim por diante;
